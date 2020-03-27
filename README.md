@@ -1,6 +1,4 @@
 <img src="https://i.imgur.com/ZPkSsfX.png" align="center"></img>
-<h1 align="center">Omnistack Week 11</h1>
-<p align="center">Project <strong>Be The Hero</strong> developed during the Rocketseat OmniStack Week</p>
 
 <p align="center">
   <a aria-label="NodeJs version" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
