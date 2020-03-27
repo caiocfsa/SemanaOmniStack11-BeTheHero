@@ -1,4 +1,4 @@
-<img src="frontend/src/assets/omnistack.png" align="center"></img>
+<img src="https://i.imgur.com/ZPkSsfX.png" align="center"></img>
 <h1 align="center">Omnistack Week 11</h1>
 <p align="center">Project <strong>Be The Hero</strong> developed during the Rocketseat OmniStack Week</p>
 
